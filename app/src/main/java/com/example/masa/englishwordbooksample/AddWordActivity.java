@@ -23,6 +23,7 @@ public class AddWordActivity extends Activity {
     // 「トップへ」ボタンタグ
     static final String BTN_TOP = "btnTop";
 
+
     // onCreateメソッド(画面初期表示イベント)
     @Override
     public void onCreate(Bundle savedInstanceState) {
